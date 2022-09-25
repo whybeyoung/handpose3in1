@@ -1,0 +1,14 @@
+# please keep the aiges for the latest
+aiges
+
+torch==1.9.1
+torchvision==0.10.1
+opencv-python>=4.1.1
+Pillow>=7.1.2
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+tqdm>=4.64.0
+matplotlib>=3.2.2
+onnx
+onnxruntime
