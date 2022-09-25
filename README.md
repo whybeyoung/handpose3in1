@@ -6,7 +6,11 @@
 
 ## demo
 
+### demo1
 https://user-images.githubusercontent.com/10629930/192127443-3116497b-e1f6-423d-8be9-8b379dc3ff68.mp4
+
+### demo2
+![img](demo.gif)
 
 ### 用法
 
